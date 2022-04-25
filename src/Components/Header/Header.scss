@@ -1,0 +1,14 @@
+$headerColor: red;
+$buttonColor: rgb(31, 134, 237);
+$titleColor: rgb(227, 12, 77);
+
+.header{
+    background-color: $headerColor;
+}
+.bg-sign{
+    background-color: $buttonColor;
+    border-radius: 15px;
+}
+.text-title{
+    color: $titleColor !important;
+}
